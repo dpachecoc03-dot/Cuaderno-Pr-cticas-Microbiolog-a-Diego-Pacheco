@@ -121,12 +121,12 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 - **Nombre y apellidos:** Diego Pacheco Calderón
 - **Fecha real de realización:** 23/09/2026
-- **Grupo:** Trabajo 
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
-- **Código o identificación de la muestra:** [Completa sin datos personales]
+- **Grupo:** LCB 2º
+- **Pareja o equipo, si procede:** Trabajo en equipo (Paula,Rebeca,Miriam,Cristina,Diego)
+- **Rol o tarea principal que realizaste:** Técnico de laboratorio que recibe una muestra para analizar
+- **Modalidad realmente realizada:** Simulación con material limpio 
+- **Tipo de muestra o simulante utilizado:** Muestra de agua estancada sin riesgo biológico
+- **Código o identificación de la muestra:** Agua de la fuente de santa eulalia
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -134,25 +134,25 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+En el laboratorio no disonemos de zona de recepción de muestras,
 
 ### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| No hay protocolo específico | [Completa] | [Completa] |
+| No existe un kit de derrames | [Completa] | [Completa] |
+| No hay una zona de recepción | [Completa] | [Completa] |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección | Sí | Protección básica del personal |
+| Guantes | Si | [ Protección básica del personal |
+| Protección ocular o facial | [ No ] | [ No es necesario para esta práctica ] |
+| Higiene de manos | [ Antes y después del trabajo, en el lavabo con jabón ] | [ Protección básica del personal y evitar contaminación ] |
+| Otra barrera o medida | [ No ] | [ No es necesario utilizar ningún elemento de protección más ] |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,8 +160,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | [ No existe ni zona ni señalización adecuada en el laboratorio] | [ No ] | [ Debería de haber una zona específica para no correr riesgos innecesarios] |
+| Recepción e identificación trazables | [ Inexistencia de procedimiento adecuado ] | [ No ] | [Completa] |
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
