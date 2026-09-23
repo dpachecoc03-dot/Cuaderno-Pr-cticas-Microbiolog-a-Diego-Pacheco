@@ -149,10 +149,10 @@ En el laboratorio no disonemos de zona de recepción de muestras,
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
 | Bata u otra prenda de protección | Sí | Protección básica del personal |
-| Guantes | Si | [ Protección básica del personal |
-| Protección ocular o facial | [ No ] | [ No es necesario para esta práctica ] |
-| Higiene de manos | [ Antes y después del trabajo, en el lavabo con jabón ] | [ Protección básica del personal y evitar contaminación ] |
-| Otra barrera o medida | [ No ] | [ No es necesario utilizar ningún elemento de protección más ] |
+| Guantes | Si |  Protección básica del personal |
+| Protección ocular o facial |  No  |  No es necesario para esta práctica  |
+| Higiene de manos |  Antes y después del trabajo, en el lavabo con jabón  |  Protección básica del personal y evitar contaminación  |
+| Otra barrera o medida |  No  |  No es necesario utilizar ningún elemento de protección más  |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,8 +160,8 @@ En el laboratorio no disonemos de zona de recepción de muestras,
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [ No existe ni zona ni señalización adecuada en el laboratorio] | [ No ] | [ Debería de haber una zona específica para no correr riesgos innecesarios] |
-| Recepción e identificación trazables | [ Inexistencia de procedimiento adecuado ] | [ No ] | [Completa] |
+| Zona y señalización analizadas |  No existe ni zona ni señalización adecuada en el laboratorio |  No  |  Debería de haber una zona específica para no correr riesgos innecesarios |
+| Recepción e identificación trazables |  Inexistencia de procedimiento adecuado  |  No  | Debería de existir un protocolo que nos guiara a la hora de realizar la prueba |
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
