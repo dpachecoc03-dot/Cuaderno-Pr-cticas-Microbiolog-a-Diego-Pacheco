@@ -178,7 +178,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ### Imagen 1 — Preparación o selección de EPI
 
-![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
+![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_001.jpg)
 
 - **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
 - **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
