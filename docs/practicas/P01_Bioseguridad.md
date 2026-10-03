@@ -181,39 +181,39 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_001.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se observa los EPI utilizados en esta práctica (guantes y bata)
+- **Autoría y origen:** Propia
+- **Momento del procedimiento:** Antes de comenzar con la reaización de la práctica
 
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
+- **Pie de foto:** Observamos que al no tener zona especial de recepción tenemos que improvisar una, cogemos una bandeja, papel para secar y desinfectar, alcohol y una bolsa para tirar el papel utilizado para limpiar la zona.
 - **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Momento del procedimiento:** Cuando se recibe la muestra en el laboratorio.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
 - **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
+- **Origen y autorización:** Imagen creada con Chatgpt
 - **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Pie de foto:** Se ve como la muestra se derrama, posteriormente con papel secamos la zona, y con alcohol y más papel desinfectamos.
+- **Medida crítica demostrada:** Se controla el riesgo de contaminación
+- **Momento del procedimiento:** Durante y tras el derrame de la muestra.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
+- **Pie de foto:** Se tarta del derrame de la muestra de agua contaminada, cuando se limpia la zona el papel utilizado se deposita en una bolsa de plástico asilada y esta se tira a la basura correspondiente.
 - **Ruta autorizada:** [Completa según el protocolo del centro]
 - **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
 
