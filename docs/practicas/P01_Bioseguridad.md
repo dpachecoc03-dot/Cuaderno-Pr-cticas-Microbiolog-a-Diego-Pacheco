@@ -134,7 +134,8 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-En el laboratorio no disonemos de zona de recepción de muestras,
+En el laboratorio no disponemos de zona de recepción de muestras, por lo que tuvimos que improvisar con una bandeja y realizar la práctica en una zona más apartada y segura, tampoco se dispone de ninguna señalización específica para estos casos en el laboratorio.
+Para trabajar con seguridad utilizamos bata, guantes, alcohol desinfectante e incluso gafas protectoras si fuera necesario.
 
 ### 7.2 Riesgos identificados
 
