@@ -114,13 +114,13 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Nombre y apellidos:** Diego Pacheco Calderón
+- **Fecha real de realización:** 07/10/2026
+- **Grupo:** 2ºLCB
+- **Equipo de trabajo, si procede:** Paula Escobar , Miriam García , Rebeca Vicho, Ariadna Seguro, Cristina Manzana y Diego Pacheco.
+- **Rol o tarea principal que realizaste:** Limpieza previa de los tubos, preparación del material y realización de la disolución mediante la mezcla de 1,85g de reactivo BHI y 50ml de agua destilada calentada previamente.
+- **Modalidad realmente realizada:** Preparación completa supervisada:
+ - **Medio preparado:** Caldo BHI: Fabricante Pronadisa Laboratorios Conda S.A, referencia no procede y lote 608301.
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -160,6 +160,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 - **Archivo previsto:** `../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg`
 
 ![Pesada del BHI deshidratado](../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg)
+![Pesada del BHI deshidratado](../assets/P07/pesada_o_preparacion_de_los_componentes_02.jpg)
 
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
@@ -216,7 +217,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias ] | Ninguna | Ninguna, no se necesito. | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
